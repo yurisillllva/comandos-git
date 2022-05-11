@@ -1,0 +1,27 @@
+git clone 
+
+criar um new reposit...no browser do git
+
+entrar no projeto local
+
+criar um arquivo nesse projeto local com nome .gitignore e dentro desse arquivo digitar "node_modules/"
+
+executar  todos esses comandos:
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/yuriMartins/fire---padrao.git
+git push -u origin main
+
+
+Surgiu uma nova atualização no repositório remoto:
+git pull
+
+Quero lançar uma nova alteração do projeto:
+git add .
+
+git commit -m " alteração feita"
+
+git push 
+  
